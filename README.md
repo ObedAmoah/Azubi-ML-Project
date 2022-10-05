@@ -1,5 +1,5 @@
 # Azubi-ML-Project
-## Pricing - Example with Demodata by sklearn
+## Pricing - Assignment with Demodata by sklearn
 A demodata by sklearn is used to experiement the price prediction algorithm or model.
 
 It is about price prediction on the Boston house dataset and factors that affect/determine the prices.
